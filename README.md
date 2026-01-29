@@ -1,6 +1,6 @@
-# Modelo Estocástico Avançado para Fundos de Investimento
+# Modelo Estocástico para Fundos de Investimento
 
-Este repositório contém uma biblioteca Python modular para análise quantitativa avançada de fundos de investimento e ativos financeiros brasileiros. O sistema implementa modelos estocásticos, análise de séries temporais, métricas de risco sofisticadas e otimização de portfólio.
+Este repositório contém uma biblioteca Python modular para análise quantitativa  de fundos de investimento e ativos financeiros brasileiros. O sistema implementa modelos estocásticos, análise de séries temporais, métricas de risco sofisticadas e otimização de portfólio.
 
 ## Estrutura do Projeto
 
